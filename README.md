@@ -4,4 +4,4 @@ Hi, I’m Jamie! I am a senior studying Computer Science at UW, Seattle. I like 
 
 I'm passionate about what I do, and I'm always seeking more opportunities to understand more about AI, the ethics of computing and how to secure systems & programs from external threats.<br>
 
-Ask me about some cool projects I've worked on!<br>
+Ask me about some cool projects I've worked on! The things you can find here are is not an exhaustive list of projects that I've completed.<br>
